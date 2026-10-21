@@ -1,0 +1,11 @@
+{
+  "name": "alwan-alhayat-system",
+  "version": "5.0.0",
+  "description": "نظام ألوان الحياة للديكور والتركيبات — عملاء، مقاسات، عروض أسعار، عقود، فواتير ضريبية، تحصيل، مخزون، مشتريات، موردون، مصروفات، تقارير، موظفون",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=14.0.0" },
+  "dependencies": {},
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -1,0 +1,394 @@
+{
+  "_rev": 2,
+  "clients": [],
+  "inventory": {},
+  "purchases": [],
+  "expenses": [],
+  "quotes": [],
+  "auditLog": [],
+  "templates": [],
+  "employees": [],
+  "campaigns": [],
+  "suppliers": [
+    {
+      "id": "xmvhvda6u7zgjmta",
+      "name": "صح",
+      "contact": "",
+      "phone": "544165630",
+      "vatNumber": "",
+      "city": "",
+      "category": "أرضيات",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6udz9zika",
+      "name": "انجاز",
+      "contact": "",
+      "phone": "558997714",
+      "vatNumber": "",
+      "city": "",
+      "category": "أرضيات",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6uenghir7",
+      "name": "الخيال",
+      "contact": "",
+      "phone": "533843784",
+      "vatNumber": "",
+      "city": "",
+      "category": "أرضيات",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6u7tfbnkt",
+      "name": "الفخامة",
+      "contact": "",
+      "phone": "532081377",
+      "vatNumber": "",
+      "city": "",
+      "category": "أرضيات",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6uec4rv9s",
+      "name": "عالم همسة نايا",
+      "contact": "",
+      "phone": "563038442",
+      "vatNumber": "",
+      "city": "",
+      "category": "بدائل الخشب والرخام",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6uztonoh8",
+      "name": "رنين الجودة",
+      "contact": "",
+      "phone": "503777157",
+      "vatNumber": "",
+      "city": "",
+      "category": "بدائل الخشب والرخام",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6ugku7kpz",
+      "name": "هوم ديزاين",
+      "contact": "",
+      "phone": "541620305",
+      "vatNumber": "",
+      "city": "",
+      "category": "بدائل الخشب والرخام",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6uw8y4c1r",
+      "name": "شراح الريح",
+      "contact": "",
+      "phone": "554212789",
+      "vatNumber": "",
+      "city": "",
+      "category": "بدائل الخشب والرخام",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6urbb7kj8",
+      "name": "بيت النقش",
+      "contact": "",
+      "phone": "506682138",
+      "vatNumber": "",
+      "city": "",
+      "category": "ديكورات الجدران",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6un9ge1wr",
+      "name": "عند ناصر",
+      "contact": "",
+      "phone": "",
+      "vatNumber": "",
+      "city": "",
+      "category": "ديكورات الجدران",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6uhk5y7g9",
+      "name": "احنا ومحمد علي",
+      "contact": "",
+      "phone": "",
+      "vatNumber": "",
+      "city": "",
+      "category": "ديكورات الجدران",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6ub2ijizd",
+      "name": "الموسى",
+      "contact": "",
+      "phone": "551101174",
+      "vatNumber": "",
+      "city": "",
+      "category": "الخشب والمطابخ",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6u1xla8qr",
+      "name": "الروائع الخشبية",
+      "contact": "",
+      "phone": "536362615",
+      "vatNumber": "",
+      "city": "",
+      "category": "الخشب والمطابخ",
+      "notes": ""
+    },
+    {
+      "id": "xmvhvda6upmdsghj",
+      "name": "ايتكو",
+      "contact": "",
+      "phone": "55 513 9286",
+      "vatNumber": "",
+      "city": "",
+      "category": "الخشب والمطابخ",
+      "notes": ""
+    }
+  ],
+  "supplierPayments": [],
+  "taskTemplates": [],
+  "counters": {},
+  "settings": {
+    "vatNumber": "",
+    "lowStockThreshold": 5,
+    "vatMode": "inclusive",
+    "vatRate": 15
+  },
+  "catalog": [
+    {
+      "id": "c1",
+      "name": "باركيه صيني",
+      "price": 55,
+      "unit": "م²",
+      "company": "صح",
+      "rep": "544165630",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c2",
+      "name": "باركيه بلجيكي",
+      "price": 75,
+      "unit": "م²",
+      "company": "صح",
+      "rep": "544165630",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c3",
+      "name": "باركيه تركي",
+      "price": 65,
+      "unit": "م²",
+      "company": "انجاز",
+      "rep": "558997714",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c4",
+      "name": "باركيه ألماني",
+      "price": 85,
+      "unit": "م²",
+      "company": "انجاز",
+      "rep": "558997714",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c5",
+      "name": "باركيه SPC",
+      "price": 95,
+      "unit": "م²",
+      "company": "الخيال",
+      "rep": "533843784",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c6",
+      "name": "باركيه هرمي",
+      "price": 105,
+      "unit": "م²",
+      "company": "الفخامة",
+      "rep": "532081377",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c7",
+      "name": "لباد (فوم)",
+      "price": 13,
+      "unit": "م²",
+      "company": "صح",
+      "rep": "544165630",
+      "category": "أرضيات"
+    },
+    {
+      "id": "c8",
+      "name": "بديل الخشب داخلي",
+      "price": 65,
+      "unit": "لوح",
+      "company": "عالم همسة نايا",
+      "rep": "563038442",
+      "category": "بدائل الخشب والرخام"
+    },
+    {
+      "id": "c9",
+      "name": "بديل الخشب خارجي",
+      "price": 110,
+      "unit": "لوح",
+      "company": "صح",
+      "rep": "544165630",
+      "category": "بدائل الخشب والرخام"
+    },
+    {
+      "id": "c10",
+      "name": "بديل الشيبورد",
+      "price": 280,
+      "unit": "لوح",
+      "company": "رنين الجودة",
+      "rep": "503777157",
+      "category": "بدائل الخشب والرخام"
+    },
+    {
+      "id": "c11",
+      "name": "بديل رخام",
+      "price": 250,
+      "unit": "لوح",
+      "company": "هوم ديزاين",
+      "rep": "541620305",
+      "category": "بدائل الخشب والرخام",
+      "coverage": 2.98,
+      "waste": 5
+    },
+    {
+      "id": "c12",
+      "name": "بديل الحجر (بلاطات)",
+      "price": 120,
+      "unit": "م²",
+      "company": "شراح الريح",
+      "rep": "554212789",
+      "category": "بدائل الخشب والرخام"
+    },
+    {
+      "id": "c13",
+      "name": "بديل الحجر (لوح)",
+      "price": 1000,
+      "unit": "لوح",
+      "company": "صح",
+      "rep": "544165630",
+      "category": "بدائل الخشب والرخام"
+    },
+    {
+      "id": "c14",
+      "name": "ورق جدران",
+      "price": 300,
+      "unit": "رول",
+      "company": "بيت النقش",
+      "rep": "506682138",
+      "category": "ديكورات الجدران",
+      "coverage": 5.3,
+      "waste": 10
+    },
+    {
+      "id": "c15",
+      "name": "مرايات عادية",
+      "price": 250,
+      "unit": "م²",
+      "company": "عند ناصر",
+      "rep": "عند علاء",
+      "category": "ديكورات الجدران"
+    },
+    {
+      "id": "c16",
+      "name": "مرايات ديكورية",
+      "price": 350,
+      "unit": "م²",
+      "company": "عند ناصر",
+      "rep": "عند علاء",
+      "category": "ديكورات الجدران"
+    },
+    {
+      "id": "c17",
+      "name": "جبس بورد - طبقة",
+      "price": 55,
+      "unit": "م²",
+      "company": "احنا ومحمد علي",
+      "rep": "احنا ومحمد علي",
+      "category": "ديكورات الجدران"
+    },
+    {
+      "id": "c18",
+      "name": "جبس بورد - طبقتين",
+      "price": 75,
+      "unit": "م²",
+      "company": "احنا ومحمد علي",
+      "rep": "احنا ومحمد علي",
+      "category": "ديكورات الجدران"
+    },
+    {
+      "id": "c19",
+      "name": "جبس بورد - ٣ طبقات",
+      "price": 95,
+      "unit": "م²",
+      "company": "احنا ومحمد علي",
+      "rep": "احنا ومحمد علي",
+      "category": "ديكورات الجدران"
+    },
+    {
+      "id": "c20",
+      "name": "صبغ مع المواد",
+      "price": 30,
+      "unit": "م²",
+      "company": "احنا ومحمد علي",
+      "rep": "احنا ومحمد علي",
+      "category": "الدهانات"
+    },
+    {
+      "id": "c21",
+      "name": "صبغ بدون مواد",
+      "price": 20,
+      "unit": "م²",
+      "company": "احنا ومحمد علي",
+      "rep": "احنا ومحمد علي",
+      "category": "الدهانات"
+    },
+    {
+      "id": "c22",
+      "name": "خشب MDF مكتبة",
+      "price": 600,
+      "unit": "م.ط",
+      "company": "الموسى",
+      "rep": "551101174",
+      "category": "الخشب والمطابخ"
+    },
+    {
+      "id": "c23",
+      "name": "خشب MDF دريسنج مع درفة زجاج",
+      "price": 900,
+      "unit": "م.ط",
+      "company": "الموسى",
+      "rep": "551101174",
+      "category": "الخشب والمطابخ"
+    },
+    {
+      "id": "c24",
+      "name": "خشب MDF دريسنج بدون زجاج",
+      "price": 750,
+      "unit": "م.ط",
+      "company": "الروائع الخشبية",
+      "rep": "536362615",
+      "category": "الخشب والمطابخ"
+    },
+    {
+      "id": "c25",
+      "name": "خشب شيبورد الماني للمطبخ",
+      "price": 1150,
+      "unit": "م.ط",
+      "company": "ايتكو",
+      "rep": "55 513 9286",
+      "category": "الخشب والمطابخ"
+    }
+  ]
+}

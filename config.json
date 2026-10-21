@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "uc1ac69947904",
+      "username": "admin",
+      "name": "المدير",
+      "role": "مدير",
+      "active": true,
+      "salt": "59b85562f79f46ebb7b503c72495d80f",
+      "hash": "aaf6cfae5cabc5bed47ebd5de38ae35859023ea66f1f0b3ffd1155f46d485f9ab263863159e6cf1541bf00421d8e7272fefed78f394cb075db1adeeb0edd4281"
+    },
+    {
+      "id": "ub3824e6deaa8",
+      "username": "sales",
+      "name": "المبيعات",
+      "role": "مبيعات",
+      "active": true,
+      "salt": "3f94601cdfaaf4e43e8ee53deccd2528",
+      "hash": "f6105e1fb9858b3d82a35c560e4739b0bc4e7de5cfabdcd141c45d149bfdd4ec96d678a061bbb44ce385249b137822149048ef76b38a217278dd1e1f655ebe2c"
+    },
+    {
+      "id": "u8f5cd4b48acf",
+      "username": "accountant",
+      "name": "المحاسب",
+      "role": "محاسب",
+      "active": true,
+      "salt": "55c77e5b17d198c2a438b290d865ec49",
+      "hash": "3a44c2aec3f07ebc20f765365f7a835871f4b9d68f24866a3a6a163dadd7feabf0ace78adebd139f13ca2ea04dd1c9d2edcbd797a1a093feb6bc116e9c0a87ff"
+    }
+  ]
+}
